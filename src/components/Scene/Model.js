@@ -32,7 +32,7 @@ export default function Model() {
         distortionScale: 0.6,
         temporalDistortion: 0.12,
         aniostropic: 0.5,
-        
+
     }
 
     useEffect(() => {
